@@ -1,0 +1,47 @@
+body {
+background: ghostwhite;
+color: ghostwhite;
+}
+
+
+h1 { 
+color: Navy; 
+font-size: 40pt;
+border: 5px solid black
+}
+
+
+li{ border: 2px solid black; 
+	display: inline-block;
+	padding: 10px;
+	margin: 20px;
+	background: lightblue 
+}
+	
+	a { color: darkblue;
+		text-decoratiom: none;
+		}
+	a:hover { 
+	coler: darkblue; 
+	}
+	
+	Table, td, th {
+	border: 1px Solid Black
+	}
+	
+	H2 { 
+	color: Navy; 
+	font-size: 28pt;
+	}
+	
+	
+	P {
+	Color: Black;
+	font-size: 20pt;
+	}
+	
+	H3 {
+	color: Navy;
+	font-size: 28pt;
+	}
+	
